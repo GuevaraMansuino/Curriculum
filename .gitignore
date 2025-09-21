@@ -1,4 +1,4 @@
 *.local
 .vscode/
-./imagenes/
+imagenes/
 Certificad.pdf*
